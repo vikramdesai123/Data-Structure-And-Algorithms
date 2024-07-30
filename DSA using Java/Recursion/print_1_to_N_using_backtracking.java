@@ -1,5 +1,5 @@
 
-    // using backtracking concepts
+    // using backtracking concept
 
 
 public class print_1_to_N_using_backtracking {
