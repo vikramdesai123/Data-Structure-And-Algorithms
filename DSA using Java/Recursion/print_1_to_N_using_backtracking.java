@@ -8,7 +8,6 @@ public class print_1_to_N_using_backtracking {
         if(i<1){
             return;
         }
-        // i--;
         printNum(i-1, n);
         System.out.println(i);
 
